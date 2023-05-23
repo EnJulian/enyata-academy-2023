@@ -1,0 +1,6 @@
+./                        .azuredatastudio/   .gitconfig   .templateengine/          .xdman/              Desktop/          IdeaProjects/           'My Documents'@
+ ../                       .bash_history       .gnupg/      .viminfo                  AppData/             Documents/        IntelGraphicsProfiles/   NTUSER.DAT
+ .AzureToolsForIntelliJ/   .bito/              .lesshst     .vivaldi_reporting_data  'Application Data'@   Downloads/        Links/                   NTUSER.DAT{12ff83a
+ .VirtualBox/              .cache/             .nuget/      .vscode/                  Contacts/            Dropbox/         'Local Settings'@         NTUSER.DAT{12ff83a
+ .android/                 .chatgpt/           .postman/    .vsts/                    Cookies@            'Dropbox (Old)'/   Mega/                    NTUSER.DAT{12ff83a
+ .angular-config.json      .dotnet/            .ssh/        .xdm-global-lock          DataGripProjects/    Favorites/        Music/                   NetHood@
