@@ -11,7 +11,7 @@ const car = {
     acceleration: "5.3s",
     dimensions: "4200mm x 1746mm",
     topSpeed: "145mph",
-    isNew: "yes",
+    isNew: true,
     torque: "407 Nm, 300 ft-lb",
     length: "4200mm",
     width: "1746mm",
