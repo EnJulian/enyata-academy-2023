@@ -1,0 +1,65 @@
+﻿.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxOne {
+    width: 275px;
+    height: 240px;
+    background-color: tomato;
+    margin: 50px 0 20px 38px;
+    border: 1px solid #ffffff;
+   
+}
+
+.boxTwo {
+    width: 275px;
+    height: 240px;
+    background-color: #8F00FF;
+    margin: 50px 0 20px 38px;
+    border: 1px solid #ffffff;
+}
+
+.outerBox{
+    width: 350px;
+    height: 620px;
+    background: dodgerblue;
+    border: 1px solid #000000;
+    margin-left: 1000px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    color:white;
+    
+}
+
+.boxDescription{
+    font-size: large;
+    font-weight: bold;
+}
+
+.boxContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    max-width: 1300px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.square {
+    background-color: darkgrey;
+    height: 150px;
+    width: 1000px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+@media screen and (min-width: 1136px){
+    .square {width: 250px;}
+    
+}
+
+
