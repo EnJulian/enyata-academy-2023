@@ -1,0 +1,19 @@
+﻿1.  - The let and const keywords are used when declaring variables in javascript.
+    - Let and const are block scoped while var is function scoped. This means var variables can be declared and accessed through out a code globally, 
+        inside functions or outside functions while let and const can only be accessed inside functions scopes.
+    - Let and const variables cannot be redeclared while var variable can.
+
+2. We can use a variable after declaration by simply calling it in our code or by using the console.log function to print value assigned to the variable if any.
+
+3. We can declare a string using quotation marks before the name of the string after our assignment operator when declaring any variable.
+
+4. It is acceptable to use either double or single quotes when declaring a string however using a quotation mark inside a string name when declaring with single quotes can result in errors.
+
+5. "9" makes the data type of declaration a string and 9 without quotes makes the data type an integer.
+
+6.  - Declaration means to create a variable name which will get initialized in memory.
+    - Redeclaration means to recreate an existing variable in a code block or function
+    - Assignment means to give a declared variable a value in our code.
+    - Reassignment means to change the value in an already declared and assigned variable. However variables declared with the const keyword cannot have its value reassigned. 
+    
+    
